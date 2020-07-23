@@ -8,7 +8,19 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
   
 🍉 Level 3 WaterMelons consumer.  
 
-<h1 align="center">Skills</h1>
+#### Contact me on Discord: Sammwy#xxxx
+
+<h2 align="center">Projects</h2>
+<p align="center">Take a look at my most outstanding projects.</p>
+
+| <a href="http://fvcproductions.com" target="_blank">**Slicklearn**</a> | <a href="http://fvcproductions.com" target="_blank">**LuneServer**</a> | <a href="http://fvcproductions.com" target="_blank">**LuneAuth**</a> | <a href="http://fvcproductions.com" target="_blank">**IDEA**</a> |
+| :---: | :---: | :---: | :---: |
+| <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' height='150px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png' height='150px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png' height='150px'>  | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png' height='150px'> |
+| <a href="http://slicklearn.xyz" target="_blank">`slicklearn.xyz`</a> | <a href="http://github.com/2lstudios/lune-server" target="_blank">`github.com/2lstudios/lune-server`</a> | <a href="http://github.com/2lstudios/lune-auth" target="_blank">`github.com/2lstudios/lune-auth`</a> | <a href="https://2lidea.glitch.me/" target="_blank">`2lidea.glitch.me`</a> |
+
+<h2 align="center">Skills</h2>
+<p align="center">A summary of my programming skills.</p>
+
 <p align="center">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/angular.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' height='50px'>

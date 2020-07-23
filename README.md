@@ -8,6 +8,6 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
 🍉 Level 3 WaterMelons consumer.  
 
 # Skills
-<img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/angular.png' width='50"'>
-<img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' width='50"'>
-<img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' width='50"'>
+<p align="center">
+<img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/angular.png' width='50"'><img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' width='50"'><img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' width='50"'>
+</p>

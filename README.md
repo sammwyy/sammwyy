@@ -24,7 +24,6 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/ruby.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/vue.png' height='50px'>
 </p>

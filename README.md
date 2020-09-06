@@ -6,9 +6,9 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
 
 🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
   
-🍉 Level 3 WaterMelons consumer.  
+![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
 
-#### Contact me on Discord: Sammwy#xxxx
+#### Contact me on Discord: Sammwy#0001
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>

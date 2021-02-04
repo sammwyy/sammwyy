@@ -13,39 +13,44 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
 
-| <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://github.com/2lstudios/lune-server" target="_blank">**LuneServer**</a> | <a href="https://github.com/2lstudios/lune-auth" target="_blank">**LuneAuth**</a> | <a href="http://2lidea.glitch.me" target="_blank">**IDEA**</a> |
+| <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://dotmsn.com" target="_blank">**Dot Messenger**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | <a href="http://2lidea.glitch.me" target="_blank">**IDEA**</a> |
 | :---: | :---: | :---: | :---: |
-| <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png' height='100px'> |
-| <a href="http://slicklearn.xyz" target="_blank">`slicklearn.xyz`</a> | <a href="http://github.com/2lstudios/lune-server" target="_blank">`github.com/2lstudios/lune-server`</a> | <a href="http://github.com/2lstudios/lune-auth" target="_blank">`github.com/2lstudios/lune-auth`</a> | <a href="https://2lidea.glitch.me/" target="_blank">`2lidea.glitch.me`</a> |
+| <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png' height='100px'> |
+| <a href="http://slicklearn.xyz" target="_blank">`slicklearn.xyz`</a> | <a href="http://dotmsn.com" target="_blank">`dotmsn.com`</a> | <a href="http://enhancedtwitch.com" target="_blank">`enhancedtwitch.com`</a> | <a href="https://2lidea.glitch.me/" target="_blank">`2lidea.glitch.me`</a> |
 
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
 
-| <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> | <a href="https://github.com/2LStudios-MC" target="_blank">**2LSMC**</a> | <a href="https://github.com/rubiuscorp" target="_blank">**RubiusCorp**</a> | <a href="https://github.com/playpulse" target="_blank">**Pulse**</a> |
+| <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> | <a href="https://github.com/2LStudios-MC" target="_blank">**2LSMC**</a> | <a href="https://github.com/rubiuscorp" target="_blank">**RubiusCorp**</a> | <a href="https://github.com/playpulse" target="_blank">**ArkFlame**</a> |
 |:---: | :---: | :---: | :---:|
-| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/60458264?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars3.githubusercontent.com/u/56809805?s=200&v=4' height='100px'> |
-| <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | <a href="http://github.com/2lstudios-mc" target="_blank">`github.com/2lstudios-mc`</a> | <a href="https://github.com/rubiuscorp" target="_blank">`github.com/rubiuscorp`</a> | <a href="https://github.com/playpulse" target="_blank">`github.com/playpulse`</a> |
+| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/60458264?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/47249069?s=200&v=4' height='100px'> |
+| <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | <a href="http://github.com/2lstudios-mc" target="_blank">`github.com/2lstudios-mc`</a> | <a href="https://github.com/rubiuscorp" target="_blank">`github.com/rubiuscorp`</a> | <a href="https://github.com/arkflame" target="_blank">`github.com/arkflame`</a> |
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/angular.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/express.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/lua.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/vue.png' height='50px'>
+  <img height="42px" src="https://img.icons8.com/color/452/apollo.png" />
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'>
+  <img height="42px" src="https://img.icons8.com/color/452/graphql.png" />
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
+  <img height="42px" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a6a65b8873.png" />
+  <img height="42px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"/> 
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
+  <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
+  <img height="42px" src="https://pablomagaz.com/content/images/2017/08/redux-2.svg">
+  <img height="42px" src="https://relay.dev/img/relay.svg">
+  <img height="42px" src="https://iconape.com/wp-content/png_logo_vector/rxjs.png"/>
+  <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/> 
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='42px'>
+  <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
 </p>
 
 <h2 align="center">Pinned Repositories</h2>

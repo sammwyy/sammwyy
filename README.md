@@ -30,9 +30,11 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
 <p align="center">A summary of my programming skills.</p>
 
 <p align="center">
+  <img height="42px" src="https://7-views.com/wp-content/uploads/2018/10/images_icons_products_products_apache_logo_v2-2.png"/>
   <img height="42px" src="https://img.icons8.com/color/452/apollo.png" />
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
+  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-512.png" height="42px"/>
   <img height="42px" src="https://img.icons8.com/color/452/graphql.png" />
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
@@ -40,6 +42,7 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
   <img height="42px" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a6a65b8873.png" />
   <img height="42px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"/> 
+  <img height="42px" src="https://img.icons8.com/color/452/nginx.png"/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>

@@ -30,31 +30,33 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
 <p align="center">A summary of my programming skills.</p>
 
 <p align="center">
-  <img height="42px" src="https://7-views.com/wp-content/uploads/2018/10/images_icons_products_products_apache_logo_v2-2.png"/>
-  <img height="42px" src="https://img.icons8.com/color/452/apollo.png" />
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apollo.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cloudflare.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
-  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-512.png" height="42px"/>
-  <img src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png" height="42px"/>
-  <img height="42px" src="https://img.icons8.com/color/452/graphql.png" />
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/debian.webp' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/ec2.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/electron.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/graphql.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
-  <img height="42px" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a6a65b8873.png" />
-  <img height="42px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"/> 
-  <img height="42px" src="https://img.icons8.com/color/452/nginx.png"/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nestjs.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nextjs.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nginx.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
-  <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
-  <img height="42px" src="https://pablomagaz.com/content/images/2017/08/redux-2.svg">
-  <img height="42px" src="https://relay.dev/img/relay.svg">
-  <img height="42px" src="https://iconape.com/wp-content/png_logo_vector/rxjs.png"/>
-  <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/> 
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/redis.webp' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/redux.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/relay.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/rxjs.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/typescript.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='42px'>
-  <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/webpack.svg' height='42px'>
 </p>
 
 <h2 align="center">Pinned Repositories</h2>

@@ -43,9 +43,11 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mariadb.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nestjs.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nextjs.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nginx.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/Nginx.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
@@ -54,6 +56,8 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/redux.svg' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/relay.svg' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/rxjs.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sass.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/typescript.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/webpack.svg' height='42px'>

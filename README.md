@@ -65,3 +65,7 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [StrawCI](https://github.com/
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
+<p>
+	<a href="https://github.com/sammwyy/advanced-minecraft-server-security-guide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sammwyy&repo=advanced-minecraft-server-security-guide&theme=dark"></a>
+	<a href="https://github.com/sammwyy/ddos-mitigation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sammwyy&repo=ddos-mitigation&theme=dark"></a>
+</p>

@@ -13,10 +13,10 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [StrawCI](https://github.com/
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
-| <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://dotmsn.com" target="_blank">**Dot Messenger**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | <a href="https://github.com/strawci" target="_blank">**StrawCI**</a> |
+| <a href="https://dotmsn.com" target="_blank">**Dot Messenger**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | <a href="https://strawci.com/" target="_blank">**StrawCI**</a> | <a href="https://nfense.com/" target="_blank">**Nfense**</a> |
 | :---: | :---: | :---: | :---: |
-| <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> |
-| <a href="http://slicklearn.xyz" target="_blank">`https://slicklearn.xyz`</a> | <a href="http://dotmsn.com" target="_blank">`https://dotmsn.com`</a> | <a href="http://enhancedtwitch.com" target="_blank">`https://enhancedtwitch.com`</a> | <a href="https://github.com/strawci" target="_blank">`https://github.com/strawci`</a> |
+<img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/86208275?s=200&v=4' width="100px" height='100px'> |
+| <a href="https://github.com/dotmsn" target="_blank">`Organization`</a> <a href="https://dotmsn.com" target="_blank">Website</a> | <a href="https://github.com/enhancedtwitch" target="_blank">`Organization`</a> <a href="https://twitter.com/enhancedtwitch" target="_blank">`Twitter`</a> <a href="https://enhancedtwitch.com" target="_blank">Website</a> | <a href="https://github.com/strawci" target="_blank">`Organization`</a> <a href="https://strawci.com" target="_blank">Website</a> | <a href="https://github.com/nfense" target="_blank">`Organization`</a> <a href="https://twitter.com/netfense" target="_blank">`Twitter`</a> <a href="https://nfense.com" target="_blank">Website</a> |
 
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
@@ -65,7 +65,24 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [StrawCI](https://github.com/
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
+
 <p>
-	<a href="https://github.com/sammwyy/advanced-minecraft-server-security-guide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sammwyy&repo=advanced-minecraft-server-security-guide&theme=dark"></a>
-	<a href="https://github.com/sammwyy/ddos-mitigation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sammwyy&repo=ddos-mitigation&theme=dark"></a>
+	<a href="https://github.com/sammwyy/advanced-mc-server-security-guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammwyy&repo=advanced-mc-server-security-guide&theme=dark">
+  </a> 
+  <a href="https://github.com/sammwyy/ddos-mitigation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammwyy&repo=ddos-mitigation&theme=dark">
+  </a>
+  <a href="https://github.com/nfense/NProxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfense&repo=nproxy&theme=dark">
+  </a>
+  <a href="https://github.com/nfense/NProxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=strawci&repo=ci&theme=dark">
+  </a>
+  <a href="https://github.com/dotmsn/Dot-API-Server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotmsn&repo=Dot-API-Server&theme=dark">
+  </a>
+  <a href="https://github.com/arkflame/web-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkflame&repo=web-frontend&theme=dark">
+  </a>
 </p>

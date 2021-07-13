@@ -65,3 +65,24 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [StrawCI](https://github.com/
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
+
+<p>
+	<a href="https://github.com/sammwyy/advanced-mc-server-security-guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammwyy&repo=advanced-mc-server-security-guide&theme=dark">
+  </a> 
+  <a href="https://github.com/sammwyy/ddos-mitigation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammwyy&repo=ddos-mitigation&theme=dark">
+  </a>
+  <a href="https://github.com/nfense/NProxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfense&repo=nproxy&theme=dark">
+  </a>
+  <a href="https://github.com/nfense/NProxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=strawci&repo=ci&theme=dark">
+  </a>
+  <a href="https://github.com/dotmsn/Dot-API-Server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotmsn&repo=Dot-API-Server&theme=dark">
+  </a>
+  <a href="https://github.com/arkflame/web-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkflame&repo=web-frontend&theme=dark">
+  </a>
+</p>

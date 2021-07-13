@@ -1,14 +1,16 @@
+![](https://hit.yhype.me/github/profile?user_id=44925968)
 <img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # BIO
 CEO on [2LStudios](https://twitter.com/2lstudios), [StrawCI](https://github.com/strawci), [Nfense](https://github.com/nfense), [EnhancedTwitch](https://github.com/enhancedtwitch.com/) and [Dot](https://twitter.com/dotmsn).  
 
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
+🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
+☁️ Networking, 🌎 Astronomy, 🧪 Chemistry, 💻 FullStack.  
   
 ![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
 
-**Contact me on Discord: Sammwy#0001**
+<p align="center">Contact me on Discord: <b>Sammwy#0001</b></p>
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>

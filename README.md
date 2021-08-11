@@ -3,7 +3,7 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # BIO
-CEO on [2LStudios](https://twitter.com/2lstudios), [StrawCI](https://github.com/strawci), [Nfense](https://github.com/nfense), [EnhancedTwitch](https://github.com/enhancedtwitch.com/) and [Dot](https://twitter.com/dotmsn).  
+CEO on [2LStudios](https://github.com/2lstudios), [StrawCI](https://github.com/strawci), [Nfense](https://github.com/nfense), [EnhancedTwitch](https://github.com/enhancedtwitch.com) and [Dot](https://github.com/dotmsn).  
 
 🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
 ☁️ Networking, 🌎 Astronomy, 🧪 Chemistry, 💻 FullStack.  

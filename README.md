@@ -6,7 +6,7 @@
 CEO on [2LStudios](https://github.com/2lstudios), [StrawCI](https://github.com/strawci), [Nfense](https://github.com/nfense), [EnhancedTwitch](https://github.com/enhancedtwitch.com), [Dotphin](https://github.com/dotphin) and [Dot](https://github.com/dotmsn).  
 
 🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
-☁️ Networking, 🌎 Astronomy, 🧪 Chemistry, 💻 FullStack.  
+☁️ Networking, 🌟 Astronomy, 🧪 Chemistry, 💻 FullStack.  
   
 ![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
 

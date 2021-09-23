@@ -10,8 +10,6 @@ CEO on [2LStudios](https://github.com/2lstudios), [StrawCI](https://github.com/s
   
 ![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
 
-<p align="center">Contact me on Discord: <b>Sammwy#0001</b></p>
-
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   

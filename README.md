@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='30%'>  
+<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
 
 {  
 
@@ -17,6 +17,8 @@
 * ❤️ `I love`: **Caramel macchiato**  
 
 }
+
+<br/>
 
 <h2 align="center">☕ Statistics</h2>
 

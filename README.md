@@ -1,70 +1,72 @@
-![](https://hit.yhype.me/github/profile?user_id=44925968)
-<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
+## 👋 Hi there
 
-# BIO
+* 👂 My name is **Sammwy**
+* 👩 Pronouns: **She/Her**
+* ⚡ I'm: **21 years old**
+* 🔭 I’m currently working on **Repplic**
+* 🌱 I’m currently learning **Rust**
+* 📫 You can reach me on **[Twitter](https://twitter.com/sammwy)**
+* ❤️ I love **Caramel macchiato**
 
-CEO on [2LStudios](https://github.com/2lstudios) and [2LStudios MC](https://github.com/2lstudios-mc)
+## ☕ Statistics
 
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
-☁️ Networking, 🌟 Astronomy, 🧪 Chemistry, 💻 FullStack.  
-  
-![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sammwyy&theme=dark&background=0000"/>
 
-<h2 align="center">Projects</h2>
-<p align="center">Take a look at my most outstanding projects.</p>
-  
-| <a href="https://github.com/sammwyy/Lure" target="_blank">**Lure**</a> | <a href="https://github.com/sammwyy/OpenMC" target="_blank">**OpenMC**</a> | <a href="https://github.com/sammwyy/show-emote" target="_blank">**Showemote**</a> | <a href="https://github.com/sammwyy/umivr" target="_blank">**UmiVR**</a> |
-| :---: | :---: | :---: | :---: |
-<img align='center' src='https://github.com/sammwyy/Lure/blob/main/assets/icon@128.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/sammwyy/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'>  | <img align='center' src='https://cdn3.emoji.gg/emojis/9452_lul.png' width="100px" height='100px'> | <img align='center' src='https://github.com/sammwyy/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
-| <p>Minecraft L7 proxy in Rust.</p> <a href="https://github.com/samwmyy/lure" target="_blank">`Repository`</a> | <p>Open Source Minecraft launcher</p> <a href="https://github.com/sammwyy/OpenMC" target="_blank">`Repository`</a> <a href="https://discord.gg/bm9Dk8k6CC" target="_blank">`Discord`</a> | <p>Allow chat show emotes on screen</p> <a href="https://github.com/sammwyy/show-emote" target="_blank">`Repository`</a> <a href="https://show-emote.sammwy.com/" target="_blank">Website</a> | <p>Open-source VTuber software</p> <a href="https://github.com/sammwyy/umivr" target="_blank">`Repository`</a> |
+## 🌱 My Skills
 
-<h2 align="center">Organizations</h2>
-<p align="center">A summary of organizations in which I participate.</p>
+#### 💻 Programming languages (and html)
 
-| <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> | <a href="https://github.com/2LStudios-MC" target="_blank">**2LSMC**</a> | <a href="https://github.com/rubiuscorp" target="_blank">**RubiusCorp**</a> | <a href="https://github.com/arkflame" target="_blank">**ArkFlame**</a> | <a href="https://github.com/minecraft-rs" target="_blank">**Minecraft-RS**</a> |
-|:---: | :---: | :---: | :---: |  :---:|
-| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/60458264?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/47249069?s=200&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/122713654?s=200&v=4' height='100px'> |
-| <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | <a href="http://github.com/2lstudios-mc" target="_blank">`github.com/2lstudios-mc`</a> | <a href="https://github.com/rubiuscorp" target="_blank">`github.com/rubiuscorp`</a> | <a href="https://github.com/arkflame" target="_blank">`github.com/arkflame`</a> | <a href="https://github.com/minecraft-rs" target="_blank">`github.com/minecraft-rs`</a> |
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asolidity"><img alt="Sass" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+</details>
 
-<h2 align="center">Skills</h2>
-<p align="center">A summary of my programming skills.</p>
+#### Frameworks and Libraries
 
-<p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apollo.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cloudflare.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/debian.webp' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/ec2.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/electron.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/graphql.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mariadb.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nestjs.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nextjs.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/Nginx.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/redis.webp' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/redux.svg' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/relay.svg' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/rust.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/rxjs.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sass.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/solidity.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/typescript.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/webpack.svg' height='42px'>
-</p>
+<a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?logo=apollo-graphql&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
 
-<h2 align="center">Pinned Repositories</h2>
-<p align="center">Take a look at my most outstanding repositories.</p>
+#### Software
+
+<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
+<a href="#"><img alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
+<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a>
+<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+
+#### Cloud and Providers
+
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+<a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
+<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>

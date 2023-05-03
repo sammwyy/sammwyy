@@ -10,7 +10,11 @@
 
 ## ☕ Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sammwyy&theme=dark&background=0000"/>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sammwyy&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sammwyy&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sammwyy&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
 ## 🌱 My Skills
 
@@ -32,10 +36,11 @@
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </details>
 
-#### Frameworks and Libraries
+#### 📚 Frameworks and Libraries
 
 <a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?logo=apollo-graphql&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-512BD4.svg?logo=dotnet&logoColor=white"></a>
 <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
@@ -45,7 +50,7 @@
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
 
-#### Software
+#### ⚙ Software
 
 <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
 <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
@@ -59,7 +64,7 @@
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
-#### Cloud and Providers
+#### ☁ Cloud and Providers
 
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
 <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"></a>

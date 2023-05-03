@@ -1,25 +1,40 @@
-## 👋 Hi there
-
-* 👂 My name is **Sammwy**
-* 👩 Pronouns: **She/Her**
-* ⚡ I'm: **21 years old**
-* 🔭 I’m currently working on **Repplic**
-* 🌱 I’m currently learning **Rust**
-* 📫 You can reach me on **[Twitter](https://twitter.com/sammwy)**
-* ❤️ I love **Caramel macchiato**
-
-## ☕ Statistics
+<h2 align="center">👋 Hi there</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sammwyy&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sammwyy&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sammwyy&theme=darcula&hide_border=true&background=FFFFFF00">
+    <img src="https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet"/> 
 </p>
 
-## 🌱 My Skills
+<hr/>
 
-#### 💻 Programming languages (and html)
+<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='30%'>  
 
+{  
+
+* 👂 `My name is`: **Sammwy**
+* 👩 `Pronouns`: **She/Her**
+* ⚡ `I'm`: **21 years old**
+* 🌱 `I’m currently learning`: **Rust**
+* ❤️ `I love`: **Caramel macchiato**  
+
+}
+
+<h2 align="center">☕ Statistics</h2>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sammwyy&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sammwyy&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sammwyy&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sammwyy&theme=material-palenight&hide_border=true&background=FFFFFF00">
+</p>
+
+<h2 align="center">🌱 My Skills</h2>
+
+<h4 align="center">💻 Programming languages (and html)</h4>
+
+<p align="center">
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -34,10 +49,11 @@
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Asolidity"><img alt="Sass" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</details>
+</p>
 
-#### 📚 Frameworks and Libraries
+<h4 align="center">📚 Frameworks and Libraries</h4>
 
+<p align="center">
 <a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?logo=apollo-graphql&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-512BD4.svg?logo=dotnet&logoColor=white"></a>
@@ -49,9 +65,11 @@
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+</p>
 
-#### ⚙ Software
+<h4 align="center">⚙ Software</h4>
 
+<p align="center">
 <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
 <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
 <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
@@ -63,9 +81,11 @@
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
-#### ☁ Cloud and Providers
+<h4 align="center">☁ Cloud and Providers</h4>
 
+<p align="center">
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
 <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -75,3 +95,4 @@
 <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
 <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+</p>

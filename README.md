@@ -21,7 +21,7 @@
 - 📚 [Inkshelf](https://github.com/sammwyy/inkshelf) Self-hosted manga/manhwa/manhua/comics media server and reader client.
 - 🎤 [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) An open-source network stresser tool but it's Hatsune Miku.
 - 🔬 [Cosmisum](https://github.com/sammwyy/cosmisum) A Python pipeline for analyzing manga, comics, and documents.
-- 🪝 [Tasel](https://github.com/sammwyy/Tasel) Git hooks manager. Built-in Commit-lint and misc.
+- ⚓ [Tasel](https://github.com/sammwyy/Tasel) Git hooks manager. Built-in Commit-lint and misc.
 - 🌐 [NRelay](https://github.com/sammwyy/NRelay) Ngrok Alternative: Self-hosted and open-source OOB reverse tunnel (TCP/UDP/SNI/HTTP/MC)
 - ⚡ [TSK](https://github.com/sammwyy/tsk) A simple, fast and efficient command-line process manager written in Rust.
 - 👁️ [Specter](https://github.com/sammwyy/specter) MiTM proxy for app networking analysis.
@@ -32,8 +32,8 @@
 - 🎵 [Listnr](https://github.com/sammwyy/listnr) TUI/Terminal interactive music player.
 - 🔀 [HotRouter](https://github.com/sammwyy/HotRouter) A dynamic HTTP reverse proxy that allows runtime configuration management.
 - 📦 [Runtainer](https://github.com/sammwyy/runtainer) Container Orchestrator microservice for multiples development environment runtimes.
-- 🗂️ [YFS](https://github.com/sammwyy/yfs) A Vertical file system implementation in Go that stores everything in three files: index, bitmap (block tracking), and block storage.
-- 🐳 [CCW](https://github.com/sammwyy/ccw) A Go-based worker for Docker containers that provides HTTP REST API and Socket.IO capabilities for FS ops, Net utils, and Shell exec.
+- 🗂️ [YFS](https://github.com/sammwyy/yfs) A Vertical file system implementation in Go that stores everything in indexes, bitmaps and block storage.
+- 🐳 [CCW](https://github.com/sammwyy/ccw) A worker for containers that provides REST API and WS capabilities for FS ops, Net utils, and Shell exec.
 - 🎮 [MiniLaunch](https://github.com/sammwyy/MiniLaunch) A simple and minimalist launcher for Minecraft.
 - 🐞 [GDBC](https://github.com/sammwyy/gdbc) Comprehensive terminal-based GDB client written in Rust for performing remote debugging operations.
 - 🧩 [PokExPy](https://github.com/sammwyy/PokExPy) Pkmn Game resource extractor on Python.

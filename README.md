@@ -4,25 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet"/>
 </p>
 
-<hr/>
-
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
-
-{  
-
-* 👂 `My name is`: **Sammwy**,
-* 👩 `Pronouns`: **She/Her**,
-* ⚡ `I'm`: **22 years old**,
-* 🌱 `I’m currently learning`: **Rust**,
-* ❤️ `I love`: **Caramel macchiato**  ,
-* 💻 `Favorite lang`: **Rust & TypeScript**  
-
-}
-
-<br/>
-
-<h2 align="center">☕ Statistics</h2>
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sammwyy&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sammwyy&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
@@ -33,14 +14,41 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sammwyy&theme=tokyonight"/>
 </p>
 
-<h2 align="center">🚀 Projects</h2>
-<p align="center">Take a look at my most outstanding projects.</p>
-  
-| <a href="https://github.com/sammwyy/Lure" target="_blank">**Lure**</a> | <a href="https://github.com/sammwyy/OpenMC" target="_blank">**OpenMC**</a> | <a href="https://github.com/sammwyy/show-emote" target="_blank">**Showemote**</a> | <a href="https://github.com/sammwyy/umivr" target="_blank">**UmiVR**</a> |
-| :---: | :---: | :---: | :---: |
-<img align='center' src='https://github.com/sammwyy/Lure/blob/main/assets/icon@128.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/sammwyy/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'>  | <img align='center' src='https://cdn3.emoji.gg/emojis/9452_lul.png' width="100px" height='100px'> | <img align='center' src='https://github.com/sammwyy/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
-| <p>Minecraft L7 proxy in Rust.</p> <a href="https://github.com/samwmyy/lure" target="_blank">`Repository`</a> | <p>Open Source Minecraft launcher</p> <a href="https://github.com/sammwyy/OpenMC" target="_blank">`Repository`</a> <a href="https://discord.gg/bm9Dk8k6CC" target="_blank">`Discord`</a> | <p>Allow chat show emotes on screen</p> <a href="https://github.com/sammwyy/show-emote" target="_blank">`Repository`</a> <a href="https://show-emote.sammwy.com/" target="_blank">Website</a> | <p>Open-source VTuber software</p> <a href="https://github.com/sammwyy/umivr" target="_blank">`Repository`</a> |
-<br/>
+<h2 align="center">✨ Some random projects</h2>
+
+- 🤖 [Teragen](https://github.com/sammwyy/teragen) A terminal-based AI programming agent written in Go.
+- 🧠 [MinusBot](https://github.com/minusbot-org/minusbot) Powerful, secure, and modular Personal AI Agent.
+- 📚 [Inkshelf](https://github.com/sammwyy/inkshelf) Self-hosted manga/manhwa/manhua/comics media server and reader client.
+- 🎤 [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) An open-source network stresser tool but it's Hatsune Miku.
+- 🔬 [Cosmisum](https://github.com/sammwyy/cosmisum) A Python pipeline for analyzing manga, comics, and documents.
+- 🪝 [Tasel](https://github.com/sammwyy/Tasel) Git hooks manager. Built-in Commit-lint and misc.
+- 🌐 [NRelay](https://github.com/sammwyy/NRelay) Ngrok Alternative: Self-hosted and open-source OOB reverse tunnel (TCP/UDP/SNI/HTTP/MC)
+- ⚡ [TSK](https://github.com/sammwyy/tsk) A simple, fast and efficient command-line process manager written in Rust.
+- 👁️ [Specter](https://github.com/sammwyy/specter) MiTM proxy for app networking analysis.
+- 🩸 [BLEeding](https://github.com/sammwyy/BLEeding) Bluetooth/BLE jamming, signal inhibition, DoS and DeAuth attack.
+- 🖼️ [StoryMaker](https://github.com/sammwyy/StoryMaker) Browser based, Online image editor primarily designed for Instagram Stories and social network content.
+- 🛡️ [ARCX](https://github.com/sammwyy/ARCX) A secure, and structured daemon manager for Linux user space written in Go.
+- 🛡️ [Spear](https://github.com/sammwyy/spear) Modular and extensible NIDS/HIDS (intrusion detection system)
+- 🎵 [Listnr](https://github.com/sammwyy/listnr) TUI/Terminal interactive music player.
+- 🔀 [HotRouter](https://github.com/sammwyy/HotRouter) A dynamic HTTP reverse proxy that allows runtime configuration management.
+- 📦 [Runtainer](https://github.com/sammwyy/runtainer) Container Orchestrator microservice for multiples development environment runtimes.
+- 🗂️ [YFS](https://github.com/sammwyy/yfs) A Vertical file system implementation in Go that stores everything in three files: index, bitmap (block tracking), and block storage.
+- 🐳 [CCW](https://github.com/sammwyy/ccw) A Go-based worker for Docker containers that provides HTTP REST API and Socket.IO capabilities for FS ops, Net utils, and Shell exec.
+- 🎮 [MiniLaunch](https://github.com/sammwyy/MiniLaunch) A simple and minimalist launcher for Minecraft.
+- 🐞 [GDBC](https://github.com/sammwyy/gdbc) Comprehensive terminal-based GDB client written in Rust for performing remote debugging operations.
+- 🧩 [PokExPy](https://github.com/sammwyy/PokExPy) Pkmn Game resource extractor on Python.
+- 🧠 [memdrop](https://github.com/sammwyy/memdrop) In-memory PE loader and executor.
+- 📡 [Dishost](https://github.com/sammwyy/Dishost) A powerful and flexible IP range scanner with configurable health checks.
+- 🏗️ [Lake](https://github.com/sammwyy/Lake) A universal build system with Lua scripting.
+- 🎣 [SpearCopy](https://github.com/sammwyy/SpearCopy) A universal and local phishing toolkit for audit purposes.
+- 🕵️ [NoVM](https://github.com/sammwyy/NoVM) A tool to hide virtual machines (VMs) from malicious actors.
+- 📂 [Ruster](https://github.com/sammwyy/ruster) Directory buster tool built in Rust.
+- 💉 [SQLand](https://github.com/sammwyy/SQLand) Automatize SQL Injection vulnerabilities detection.
+- ⌨️ [OSKD](https://github.com/sammwyy/OSKD) On-screen keyboard display for your coding streams.
+- 🦆 [PiDucky](https://github.com/sammwyy/piducky) RubberDucky Script interpreter for Raspberry PI using USBHID protocol.
+- 🔌 [USBHID](https://github.com/sammwyy/usbhid) Rust Library for the USB HID protocol.
+- 🧱 [Lure](https://github.com/sammwyy/Lure) The true next-gen L7 minecraft proxy and load balancer. Built in Rust.
+- 🌍 [MinDNS](https://github.com/sammwyy/mindns) Minimal DNS server built in Rust with rule system and logging.
 
 <h2 align="center">🌱 My Skills</h2>
 

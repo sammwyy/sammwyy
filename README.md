@@ -16,6 +16,7 @@
 
 <h2 align="center">✨ Some random projects</h2>
 
+- 🖥️ [NaSH](github.com/sammwyy/nosh) A sandboxed bash-like command interpreter for AI Agents.
 - 🤖 [Teragen](https://github.com/sammwyy/teragen) A terminal-based AI programming agent written in Go.
 - 🧠 [MinusBot](https://github.com/minusbot-org/minusbot) Powerful, secure, and modular Personal AI Agent.
 - 📚 [Inkshelf](https://github.com/sammwyy/inkshelf) Self-hosted manga/manhwa/manhua/comics media server and reader client.

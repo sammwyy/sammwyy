@@ -16,6 +16,7 @@
 
 <h2 align="center">✨ Some random projects</h2>
 
+- ☕ [NanoJVM](https://github.com/sammwyy/NanoJVM) Minimal implementation of a Java Virtual Machilne (buil-it with J2ME in mind)
 - 🌍 [NS](https://github.com/sammwyy/ns) A terminal network monitor for Linux. Shows real-time interface throughput.
 - 🖥️ [AgentLib](https://github.com/sammwyy/agentlib) Ergonomic framework for AI Agents and orchestrators.
 - 🖥️ [NaSH](https://github.com/sammwyy/nosh) A sandboxed bash-like command interpreter for AI Agents.

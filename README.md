@@ -16,6 +16,7 @@
 
 <h2 align="center">✨ Some random projects</h2>
 
+- 🌍 [NS](https://github.com/sammwyy/ns) A terminal network monitor for Linux. Shows real-time interface throughput.
 - 🖥️ [AgentLib](https://github.com/sammwyy/agentlib) Ergonomic framework for AI Agents and orchestrators.
 - 🖥️ [NaSH](https://github.com/sammwyy/nosh) A sandboxed bash-like command interpreter for AI Agents.
 - 🤖 [Teragen](https://github.com/sammwyy/teragen) A terminal-based AI programming agent written in Go.

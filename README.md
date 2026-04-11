@@ -16,6 +16,9 @@
 
 <h2 align="center">✨ Some random projects</h2>
 
+- 🌻 [Sunflower](https://github.com/sammwyy/Sunflower) A Java bytecode decompiler written in Rust.
+- ✏️ [Ryp](https://github.com/sammwyy/ryp) Terminal code editor.
+- 🥜 [NUTS](https://github.com/sammwyy/NUTS) A small but powerful CLI tool to mess around with network services. 
 - ☕ [NanoJVM](https://github.com/sammwyy/NanoJVM) Minimal implementation of a Java Virtual Machilne (buil-it with J2ME in mind)
 - 🌍 [NS](https://github.com/sammwyy/ns) A terminal network monitor for Linux. Shows real-time interface throughput.
 - 🖥️ [AgentLib](https://github.com/sammwyy/agentlib) Ergonomic framework for AI Agents and orchestrators.

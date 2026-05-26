@@ -16,6 +16,10 @@
 
 <h2 align="center">✨ Some random projects</h2>
 
+- 🕳 [Singulary](https://github.com/sammwyy/singulary) Self-host your own AI app builder: FOSS v0/Lovable like.
+- 🐟 [Jellyfish](https://github.com/sammwyy/jellyfish) Jellyfin music client for the PlayStation 2.
+- 🧨 [MiniPWN](https://github.com/sammwyy/minipwn) Autonomous pentesting agent.
+- 🧊 [XY](https://github.com/sammwyy/XY) C++ PS2 Game/Brew engine using ps2sdk, gsKit and audsrv.
 - 🌻 [Sunflower](https://github.com/sammwyy/Sunflower) A Java bytecode decompiler written in Rust.
 - ✏️ [Ryp](https://github.com/sammwyy/ryp) Terminal code editor.
 - 🥜 [NUTS](https://github.com/sammwyy/NUTS) A small but powerful CLI tool to mess around with network services. 

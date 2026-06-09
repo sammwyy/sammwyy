@@ -16,7 +16,7 @@
 
 <h2 align="center">✨ Some random projects</h2>
 
-- 🍷 [WebWINE](https://github.com/sammwyy/WebWINE) Experimental browser-based Windows-like runtime designed to load, inspect, mount, and execute Windows PE `.exe` (It's not WINE)
+- 🍷 [WebWINE](https://github.com/sammwyy/WebWINE) Experimental browser-based Windows-like runtime designed to load, inspect, mount, and execute Windows PE `.exe`
 - 🕳 [Singulary](https://github.com/sammwyy/singulary) Self-host your own AI app builder: FOSS v0/Lovable like.
 - 🐟 [Jellyfish](https://github.com/sammwyy/jellyfish) Jellyfin music client for the PlayStation 2.
 - 🧨 [MiniPWN](https://github.com/sammwyy/minipwn) Autonomous pentesting agent.

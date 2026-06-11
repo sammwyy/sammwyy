@@ -16,6 +16,7 @@
 
 <h2 align="center">✨ Some random projects</h2>
 
+- 💉 [Dissect](https://github.com/sammwyy/dissect) Universal binary patcher and disassembler in the browser.
 - 🍷 [WebWINE](https://github.com/sammwyy/WebWINE) Experimental browser-based Windows-like runtime designed to load, inspect, mount, and execute Windows PE `.exe`
 - 🕳 [Singulary](https://github.com/sammwyy/singulary) Self-host your own AI app builder: FOSS v0/Lovable like.
 - 🐟 [Jellyfish](https://github.com/sammwyy/jellyfish) Jellyfin music client for the PlayStation 2.
